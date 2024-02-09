@@ -13,4 +13,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=github_dark)
