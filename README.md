@@ -1,4 +1,6 @@
-- 💻 Pursuing a **BSc in Cyber Security @ The University of Warwick**
+- Pursuing a **BSc in Cyber Security @ The University of Warwick**
+- Part of the exec of Warwick Cyber Security Society
+- I do photography sometimes
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,4 +15,4 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=ayu-mirage)
