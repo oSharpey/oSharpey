@@ -11,3 +11,6 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="rust" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="rust" width="40" height="40"/> </a> 
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact)
