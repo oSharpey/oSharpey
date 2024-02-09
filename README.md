@@ -13,4 +13,5 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oSharpey&layout=compact&hide=astro,html,mdx,css&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oSharpey&theme=merko)
